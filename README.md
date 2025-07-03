@@ -3,12 +3,12 @@
 This project is an interactive Excel dashboard that analyzes supermarket sales data, helping to understand customer behavior, product performance, and overall sales trends across three cities and six product categories.
 
 
-## 📁 Project Description
+## Project Description
 
 This dashboard was built using **Microsoft Excel** with Pivot Tables, Pivot Charts, and Slicers to analyze and visualize real-world supermarket sales data. It includes KPIs like total revenue, quantity sold, and average customer rating.
 
 
-## 🧾 Dataset Summary
+## Dataset Summary
 
 - **Cities**: Mandalay, Naypyitaw, Yangon  
 - **Branches**: A, B, C  
@@ -18,18 +18,18 @@ This dashboard was built using **Microsoft Excel** with Pivot Tables, Pivot Char
 - **Other Fields**: Unit Price, Quantity, Tax, Total Amount, Rating, Date, Time
 
 
-## 🧠 Key Insights
+## Key Insights
 
 ### 🔹 1. **City and Customer Volume**
-- 🏙️ **Yangon** has the highest number of customer invoices, meaning it serves the most customers.
+-  **Yangon** has the highest number of customer invoices, meaning it serves the most customers.
 - This suggests that **Yangon branch locations are busier** or more accessible.
 
 ### 🔹 2. **Payment Preferences**
-- 💳 The most popular payment method is **E-wallet**, followed by Credit Card and Cash.
+- The most popular payment method is **E-wallet**, followed by Credit Card and Cash.
 - This indicates that customers prefer **digital and contactless payments**, which can guide future tech upgrades in POS systems.
 
 ### 🔹 3. **Top-Selling Product Line**
-- 🍔 **Food and Beverages** generate the **highest revenue** among all product lines.
+- **Food and Beverages** generate the **highest revenue** among all product lines.
 - This suggests it should be prioritized for promotions, stocking, and offers.
 
 ### 🔹 4. **Customer Ratings**
@@ -59,7 +59,7 @@ This dashboard was built using **Microsoft Excel** with Pivot Tables, Pivot Char
 | Average Rating   | 6.9727 / 10   |
 
 
-## ✅ Tools Used
+## Tools Used
 
 - **Microsoft Excel**
   - Pivot Tables
@@ -68,7 +68,7 @@ This dashboard was built using **Microsoft Excel** with Pivot Tables, Pivot Char
   - Conditional Formatting
 
 
-## 📌 Conclusion
+##  Conclusion
 
 This supermarket sales dashboard provides clear visibility into customer preferences, product performance, and payment behavior across three major cities. Key business takeaways like prioritizing Food & Beverages, focusing on E-wallets, and improving branch B can help decision-makers take **data-driven actions**.
 
